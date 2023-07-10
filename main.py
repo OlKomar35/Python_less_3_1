@@ -12,3 +12,5 @@ set_n = set(array_n)
 set_m = set(array_m)
 
 print(result_set := set_n.intersection(set_m))
+
+print(sorted(list(result_set)))
